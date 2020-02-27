@@ -1,8 +1,9 @@
 # Ryan's Learning Journal
 
-## Markdown notes
-- a hashtag creates a H1 Heading
-- 2 hashtags creates a H2 Heading
+### Table of Contents
+- [Markdown](markdown.md)
+- [Computer Setup](computer-setup.md)
+- [Git v Github](git-github.md)
 
 1. Markdown is fun
 1. Adrienne is our TA
